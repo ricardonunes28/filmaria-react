@@ -1,0 +1,15 @@
+.box-notFound{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 2rem;
+    padding-top: 2rem;
+    text-align: center;
+}
+
+.box-animation{
+    width: 300px;
+    margin-bottom: 1rem;
+}
